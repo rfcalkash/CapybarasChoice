@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/meshes/sphere_mesh.mesh</file>
+        <file>models/meshes/capybara_Plain_mesh.mesh</file>
+    </qresource>
+</RCC>

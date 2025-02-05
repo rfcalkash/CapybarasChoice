@@ -1,0 +1,10 @@
+-I
+/home/expert/Coding/CapybarasChoice/build/Desktop_Qt_6_8_0-Debug
+-I
+/home/expert/Qt/6.8.0/gcc_64/qml
+--resource
+/home/expert/Coding/CapybarasChoice/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/qmake_CapybarasChoice.qrc
+--resource
+/home/expert/Coding/CapybarasChoice/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/appCapybarasChoice_raw_qml_0.qrc
+--module
+CapybarasChoice

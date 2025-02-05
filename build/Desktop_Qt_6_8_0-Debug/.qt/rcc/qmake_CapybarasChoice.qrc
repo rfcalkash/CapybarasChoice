@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CapybarasChoice">
+    <file alias="qmldir">/home/expert/Coding/CapybarasChoice/build/Desktop_Qt_6_8_0-Debug/CapybarasChoice/qmldir</file>
+  </qresource>
+</RCC>
+

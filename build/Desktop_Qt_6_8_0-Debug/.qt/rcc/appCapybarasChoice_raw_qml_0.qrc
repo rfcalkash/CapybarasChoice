@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/CapybarasChoice/">
+    <file alias="Main.qml">/home/expert/Coding/CapybarasChoice/Main.qml</file>
+    <file alias="models/Capybara.qml">/home/expert/Coding/CapybarasChoice/models/Capybara.qml</file>
+    <file alias="models/Bowl.qml">/home/expert/Coding/CapybarasChoice/models/Bowl.qml</file>
+    <file alias="res.qrc">/home/expert/Coding/CapybarasChoice/res.qrc</file>
+  </qresource>
+</RCC>
+

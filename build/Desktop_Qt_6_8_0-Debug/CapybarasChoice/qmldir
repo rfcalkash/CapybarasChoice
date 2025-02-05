@@ -1,0 +1,7 @@
+module CapybarasChoice
+typeinfo appCapybarasChoice.qmltypes
+prefer :/qt/qml/CapybarasChoice/
+Main 1.0 Main.qml
+Capybara 1.0 models/Capybara.qml
+Bowl 1.0 models/Bowl.qml
+

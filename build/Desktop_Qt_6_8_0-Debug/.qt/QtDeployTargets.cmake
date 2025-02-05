@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appCapybarasChoice_FILE /home/expert/Coding/CapybarasChoice/build/Desktop_Qt_6_8_0-Debug/appCapybarasChoice)
+set(__QT_DEPLOY_TARGET_appCapybarasChoice_TYPE EXECUTABLE)
